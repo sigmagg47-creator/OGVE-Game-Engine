@@ -19,14 +19,17 @@
    -Basic draws
  
    -Working Camera
+
+   -Debuging
+
+   -Mouse input
    
 ## Remember this is a beta version of the engine
 
 
 ## Updates coming soon
    working full chunksystem
-   
-   full debuging 
+
 
    Textures loading
 
